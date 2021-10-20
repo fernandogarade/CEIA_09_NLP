@@ -1,10 +1,13 @@
 # CEIA_09_NLP
+
 This repository was made during the 2021 NLP course of the AI Specialization at Universidad de Buenos Aires.
 In 8 classes we did a review and practical implementation of the main techniques that have been used to solve NLP problems.
 
+6 challenges were meant to be donde during the course.
+<img src="https://github.com/fernandogarade/CEIA_09_NLP/blob/main/Desafios.PNG" width="1000" height="600"/>
 
 You will find 6 folders with a Colab notebook each that aims to show some of these approaches studied in the course.
-- Clase 1: easy examples to show concepts like word2vec, corpus, bow, ohe, tf-idf vectors, cosine similarity
+- Clase 1: examples to show concepts like word2vec, corpus, bow, ohe, tf-idf vectors, cosine similarity
 - Clase 2: simple rule-based chatbot for customer support.  
 - Clase 3: creation of custom embeddings with gensim to represent text comparing results when using different music bands corpuses.
 - Clase 4: creation of custom embeddings with Keras Embedding Layer and use of bidirectional layer to predict next word of a sequence based on Elon Musks tweets.
